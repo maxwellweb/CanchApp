@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "835649939026",
+    "firebase_url": "https://canchapp-ba478.firebaseio.com",
+    "project_id": "canchapp-ba478",
+    "storage_bucket": "canchapp-ba478.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835649939026:android:f99321cc0194bf9c",
+        "android_client_info": {
+          "package_name": "maxilabs.us.canchapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835649939026-7d0ugj9cnc7bp44q8i6b2bb9nv161c7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "maxilabs.us.canchapp",
+            "certificate_hash": "ac1859f975782726e1402320e9d3a82bf9036419"
+          }
+        },
+        {
+          "client_id": "835649939026-lqejq0p4dsvtv5odq2pfk345hqiinn2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn-GS1hiCSyDfpDBcgxmVBzSEWn1gejwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835649939026-lqejq0p4dsvtv5odq2pfk345hqiinn2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
